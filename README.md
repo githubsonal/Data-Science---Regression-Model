@@ -1,7 +1,8 @@
-# Data-Science---Regression-Model
+# Data-Science : Regression Model
+
 This repository contains Regression Model project.
 
-# Data-Science : Regression Model
+
 
 The Problem :
 Airbnb is a hospitality company that runs an online marketplace for renting and leasing short-term lodging, primarily homestays, or tourism experiences. 
